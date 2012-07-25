@@ -232,3 +232,5 @@ ul.nav.nav-pills li a {
 }
 
 .left { float: left; }
+
+.content { min-width: 800px; }
