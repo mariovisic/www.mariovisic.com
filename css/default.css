@@ -230,3 +230,5 @@ ul.nav.nav-pills li {
 ul.nav.nav-pills li a {
   font-weight: normal;
 }
+
+.left { float: left; }
