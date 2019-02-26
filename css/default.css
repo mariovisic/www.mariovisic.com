@@ -43,6 +43,13 @@ html, body {
 @media (min-width: 768px) {
   .portrait  {
     min-height: 550px;
-    margin-top: -5em;
+    margin-top: -1.5em;
+  }
+}
+
+/* Extra Large viewport */
+@media (min-width: 1200px) {
+  .portrait  {
+    margin-top: -5.5em;
   }
 }
