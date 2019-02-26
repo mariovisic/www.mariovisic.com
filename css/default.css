@@ -1,5 +1,5 @@
 html, body {
-  color: #fff;
+  color: #f6f6f6;
   background: #050505;
 }
 
@@ -24,6 +24,7 @@ html, body {
 }
 
 .content--subheading {
+  color: #f0f0f0;
   font-size: 2.2em;
   font-weight: normal;
   line-height: 1em
