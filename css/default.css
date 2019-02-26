@@ -3,10 +3,6 @@ html, body {
   background: #050505;
 }
 
-h1 {
-  color: #007bff;
-}
-
 .col--headings {
   margin-bottom: 3em;
 }
@@ -20,6 +16,7 @@ h1 {
 }
 
 .content--heading {
+  color: #007bff;
   font-size: 3em;
   font-weight: normal;
   margin: 0;
